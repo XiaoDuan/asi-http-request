@@ -1,0 +1,9 @@
+<scaffold project="iPhone" target="ASIHTTPRequest" version="1.0" configuration="Release" publisher="com.allseeing-i" name="ASIHTTPRequest">
+  <sdk>iphoneos4.3</sdk>
+  <sdk>iphonesimulator4.3</sdk>
+
+  <headers>Classes/*.h</headers>
+  <headers>Classes/ASIWebPageRequest/*.h</headers>
+  <headers>Classes/S3/*.h</headers>
+  <headers>Classes/CloudFiles/*.h</headers>
+</scaffold>
